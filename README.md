@@ -1,1 +1,2 @@
-# Calculator
+# Addition Calculator
+BMI Calculator
